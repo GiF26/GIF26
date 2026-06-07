@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou a Giovanna Ferreira! 👋
 
-<!--
-**GiF26/GIF26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Desenvolvedora Java Backend com 3 anos de experiência sólida no desenvolvimento e manutenção de sistemas de alta transacionalidade voltados para o setor de varejo e conciliação financeira.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:** Java, SQL, Python, Visual Basic
+- **Frameworks:** Spring Boot, Spring Data JPA, REST APIs
+- **Ferramentas & Qualidade:** Git, GitHub, JUnit
+- **Bancos de Dados:** PostgreSQL, MySQL, SQL Server
+
+### 📈 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=GiF26&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiF26&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
+</p>
+
+### 📬 Conecte-se comigo
+- 💼 LinkedIn: [Giovanna Ferreira](https://www.linkedin.com/in/giovanna-ferreira-7a494b259/)
+- ✉️ Email: giovannaferreira2603@gmail.com
