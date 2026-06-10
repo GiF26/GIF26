@@ -12,7 +12,7 @@ Sou Desenvolvedora Java Backend com 3 anos de experiência sólida no desenvolvi
 ### 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiF26&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" height="150" />
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=GiF26&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" height="150" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiF26&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
 </p>
