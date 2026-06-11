@@ -4,7 +4,7 @@ Sou Desenvolvedora Java Backend com 3 anos de experiência sólida no desenvolvi
 
 ### 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** Java, SQL, Python, Visual Basic
+- **Linguagens:** Java, SQL, Visual Basic
 - **Frameworks:** Spring Boot, Spring Data JPA, REST APIs
 - **Ferramentas & Qualidade:** Git, GitHub, JUnit
 - **Bancos de Dados:** PostgreSQL, MySQL, SQL Server
