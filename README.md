@@ -10,8 +10,14 @@ Sou Desenvolvedora Java Backend com 3 anos de experiência sólida no desenvolvi
 - **Bancos de Dados:** PostgreSQL, MySQL, SQL Server
 
 ### 📈 Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GiF26&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/GiF26)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=GiF26&layout=compact&theme=dark)](https://github.com/GiF26)
+<div align="center">
+  <a href="https://github.com/GiF26">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiF26&show_icons=true&theme=dark&include_all_commits=true&v=1" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/GiF26">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=GiF26&layout=compact&theme=dark&v=1" alt="Linguagens mais usadas" />
+  </a>
+</div>
 
 ### 📬 Conecte-se comigo
 - 💼 LinkedIn: [Giovanna Ferreira](https://www.linkedin.com/in/giovanna-ferreira-7a494b259/)
